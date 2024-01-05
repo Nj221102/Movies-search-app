@@ -52,3 +52,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
   Introduce a separate tab or section to display a list of user-favorite movies.
 
 
+# Movies-search-app
